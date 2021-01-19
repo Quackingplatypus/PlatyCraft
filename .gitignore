@@ -1,0 +1,15 @@
+# Generic files to ignore
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.exe
+*.log
+
+# Platycraft-specific files to ignore
+/build
+/.gradle
+/runDir/**
+
