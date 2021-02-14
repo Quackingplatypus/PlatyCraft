@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e242fa02-587b-45d7-95b1-8235191a37d6" name="Default Changelist" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlatyCraft.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlatyCraft.ipr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlatyCraft.iws" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+    <list default="true" id="e242fa02-587b-45d7-95b1-8235191a37d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/quackingplatypus/platycraft/PlatyCraft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlatyCraft.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PlatyCraft.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlatyCraft.iws" beforeDir="false" afterPath="$PROJECT_DIR$/PlatyCraft.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +51,21 @@
     <breakpoint_rules converted="true" />
     <ui_properties converted="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Hunter" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" />
@@ -70,7 +77,9 @@
       <profile-state />
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -90,6 +99,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
   </component>
   <component name="RunManager" selected="Application.Minecraft Client">
     <configuration default="true" factoryName="Applet" type="Applet">
@@ -187,8 +200,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611031208510</updated>
-      <workItem from="1611031210662" duration="653000" />
+      <workItem from="1611031210662" duration="714000" />
+      <workItem from="1611420265807" duration="170000" />
+      <workItem from="1611497012425" duration="362000" />
+      <workItem from="1612052797029" duration="13000" />
+      <workItem from="1612052833418" duration="214000" />
+      <workItem from="1613232833341" duration="101000" />
+      <workItem from="1613232944630" duration="404000" />
+      <workItem from="1613242485861" duration="1430000" />
+      <workItem from="1613247827997" duration="1896000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1611031872152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611031872152</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +226,8 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Added Mod Class Skeleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Mod Class Skeleton" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
 </project>
